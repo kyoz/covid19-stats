@@ -1,11 +1,15 @@
 import '../styles/index.css';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 function MainLayout({ children }) {
   return (
     <div className="container">
-      <div>This is header</div>
+      <Header></Header>
 
       { children }
+
+      <Footer></Footer>
 
       <style jsx>{`
         .container {
