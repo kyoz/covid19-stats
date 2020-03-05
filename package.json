@@ -1,0 +1,33 @@
+{
+  "name": "covid19-stats",
+  "version": "1.0.0",
+  "description": "Covid-19 Statistics",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "start:prod": "next build && next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyoz/covid19-stats.git"
+  },
+  "keywords": [
+    "covid-19",
+    "virus",
+    "statistics"
+  ],
+  "author": "Kyoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyoz/covid19-stats/issues"
+  },
+  "homepage": "https://github.com/kyoz/covid19-stats#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
