@@ -1,2 +1,14 @@
 # COVID-19 STATS
-> Covid-19 Statistics (Base on [COVID-19 API](https://github.com/mathdroid/covid19), which serving data from John Hopkins University CSSE)
+> Covid-19 Statistics
+
+## Introduce
+
+- Just a minimal dashboard (Base on [COVID-19 API](https://github.com/mathdroid/covid19), which serving data from John Hopkins University CSSE)
+
+## Related
+
+- [mathdroid/covid19](https://github.com/mathdroid/covid19) - API for this dashboard
+
+## License
+
+MIT © [Kyoz](mailto:banminkyoz@gmail.com)

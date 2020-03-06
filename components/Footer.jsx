@@ -19,7 +19,6 @@ function Footer() {
 
         .author {
           font-weight: bold;
-          color: #2979FF;
           text-decoration: none;
         }
 
