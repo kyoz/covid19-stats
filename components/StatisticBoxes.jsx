@@ -52,6 +52,10 @@ function StatisticsBoxes({ data }) {
         }
 
         .box > img {
+          min-width: 64px;
+          max-width: 64px;
+          min-height: 64px;
+          max-height: 64px;
           border: 4px solid rgba(0,0,0,.08);
           border-radius: 50%;
         }
