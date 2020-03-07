@@ -40,7 +40,7 @@ function StatisticsBoxes({ data }) {
         .box {
           display: flex;
           align-items: center;
-          width: 220px;
+          width: 248px;
           max-width: 100%;
           margin: 8px;
           padding: 16px;
@@ -87,7 +87,7 @@ function StatisticsBoxes({ data }) {
           background: #FE6969;
         }
 
-        @media screen and (max-width: 680px) {
+        @media screen and (max-width: 740px) {
           .container {
             flex-direction: column;
             padding-right: 24px;
